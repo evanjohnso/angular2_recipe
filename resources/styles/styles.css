@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+}
+
+.jumbotron {
+  text-align: center;
+  color: blue;
+  background: darkgrey;
+}
+
+ul, ol {
+  margin: 0;
+  padding: 0;
+}
+li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
