@@ -1,0 +1,17 @@
+{
+  "name": "recipe-box",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Haneen and Evan"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
